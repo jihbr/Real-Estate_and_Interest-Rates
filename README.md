@@ -1,5 +1,5 @@
 # SIADS593
-SIADS593 Repository for Code
+SIADS593 Repository for Code 
 
 ## Note
 All of our work will be ultimately merged into the development branch and **NOT** the main branch. We will merge into the main branch at the end.
