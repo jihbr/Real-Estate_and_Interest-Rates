@@ -30,5 +30,5 @@ SIADS593 Repository for Code
 9. **IMPORTANT:** For some reason GitHub has the requests go from right to left. Think of it as you are sending the data from a source to a target. So, the source would be your branch (right side) and the target is the development branch (left side)
 10. Click Create pull request
 11. Click Create pull request again
-12. Assuming there are no conflicts, click Merge pull request. If there are conflicts, then those must be resolved before the Merge pull request button allows you to click on it
+12. Assuming there are no conflicts, click on the drop down arrow and select **Squash and merge**. If there are conflicts, then those must be resolved before the Merge pull request button allows you to click on it
 13. After that, everything is merged. You can optionally delete your branch
