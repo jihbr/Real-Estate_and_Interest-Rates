@@ -2,7 +2,7 @@
 SIADS593 Repository for Code 
 
 ## Note
-All of our work will be ultimately merged into the development branch from our own branches and **NOT** the main branch. We will merge into the main branch at the end.
+
 
 ## Jupyter Notebooks Setup
 ### Within GitHub
