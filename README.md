@@ -2,7 +2,7 @@
 SIADS593 Repository for Code 
 
 ## Note
-All of our work will be ultimately merged into the development branch and **NOT** the main branch. We will merge into the main branch at the end.
+
 
 ## Jupyter Notebooks Setup
 ### Within GitHub
@@ -16,7 +16,7 @@ All of our work will be ultimately merged into the development branch and **NOT*
 7. Type in your user name
 8. Paste your access token NOT your password
 9. Once the repository is downloaded, navigate to the left side of the screen and click on the git icon
-10. Click new branch and create it based on origin/development and name it whatever you want but please include your user name so that we know whose repos are whose
+10. Click new branch and create it based on your branch in GitHub (i.e. origin/ and name it whatever you want but please include your user name so that we know whose repos are whose
 11. You now have a branch created locally in Jupyter Notebooks that you can do your work in
 
 ### Once you want to send the work back to GitHub
@@ -34,4 +34,4 @@ All of our work will be ultimately merged into the development branch and **NOT*
 10. Click Create pull request
 11. Click Create pull request again
 12. Assuming there are no conflicts, click on the drop down arrow and select **Squash and merge**. If there are conflicts, then those must be resolved before the Merge pull request button allows you to click on it
-13. After that, everything is merged. You can optionally delete your branch
+13. After that, everything is merged
